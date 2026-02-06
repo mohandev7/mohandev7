@@ -12,11 +12,25 @@ These days I’m focused on:
 
 Some stuff I built:
 
-* SigmaGPT — An AI conversational assistant with contextual responses, chat history management, and secure API routing.
-* ApnaMeet — A real-time video conferencing platform with video/audio calls, screen sharing, live chat, and authenticated rooms.
-* InvestPro — A stock trading simulator featuring REST-based trade execution, portfolio tracking, and analytics dashboards.
-* Hospital Management System — A Java + JDBC application managing patients, doctors, and appointments through database operations.
-* Algorithm Practice — Java implementations covering sliding window, matrix problems, and core DSA patterns.
+* SigmaGPT — An AI conversational assistant with contextual responses, chat history management, and secure API routing
+* ApnaMeet — A real-time video conferencing platform with video/audio calls, screen sharing, live chat, and authenticated rooms
+* InvestPro — A stock trading simulator featuring REST-based trade execution, portfolio tracking, and analytics dashboards
+* Hospital Management System — A Java + JDBC application managing patients, doctors, and appointments through database operations
+* Algorithm Practice — Java implementations covering sliding window, matrix problems, and core DSA patterns
+
+---
+
+Fun Facts:
+
+* I don’t like coffee or tea ☕
+* MS Dhoni is my favorite cricket player 🏏
+* Hobbies: Watching podcasts and playing outdoor games
+
+
+---
+
+
+
 
 
 
