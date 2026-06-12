@@ -41,7 +41,7 @@ Fun Facts:
 ### 📫 Connect With Me
 - 📧 Email: mohanjalamadula123@gmail.com  
 - 💼 GitHub: https://github.com/mohandev7  
-- 🔗 LinkedIn: https://linkedin.com/in/mohanlinkedin  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohan-jalamadula/ 
 
 ---
 
